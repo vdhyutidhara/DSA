@@ -17,5 +17,3 @@ for (let t = 0; t < tc; t++) {
     }
     console.log(Math.min(...final))
 }
-
-// O()
